@@ -1,5 +1,7 @@
 # Laravel FCM
 
+# This package is deprecated new Package is https://github.com/prgayman/larafcm
+
 ## Introduction
 
 Laravel FCM is an easy to use package working with both Laravel and Lumen for sending push notification with [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM).
